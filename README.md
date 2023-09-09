@@ -1,5 +1,6 @@
 # dell-server-fan-controller
 you have to download ipmitool first
+you can download [here](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=m63f3)
 
 # how to use
 open ipmi_setting.bat with notepad or other text editor
